@@ -33,5 +33,8 @@
     <ClCompile Include="재귀함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="배열리스트.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
