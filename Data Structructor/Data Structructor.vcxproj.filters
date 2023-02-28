@@ -45,5 +45,8 @@
     <ClCompile Include="큐.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="트리 순회 서치 삽입.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

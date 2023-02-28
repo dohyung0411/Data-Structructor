@@ -148,6 +148,7 @@
     <ClCompile Include="재귀함수.c" />
     <ClCompile Include="큐.c" />
     <ClCompile Include="탐색.c" />
+    <ClCompile Include="트리 순회 서치 삽입.c" />
     <ClCompile Include="포인터.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
