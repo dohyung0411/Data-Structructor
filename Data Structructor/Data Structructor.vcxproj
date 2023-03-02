@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="구조체.c" />
+    <ClCompile Include="그래프.c" />
     <ClCompile Include="동적할당.c" />
     <ClCompile Include="배열.c" />
     <ClCompile Include="배열리스트.c" />
