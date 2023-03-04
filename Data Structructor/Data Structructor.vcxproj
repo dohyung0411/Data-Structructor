@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BFS.c" />
     <ClCompile Include="DFS.c" />
     <ClCompile Include="구조체.c" />
     <ClCompile Include="그래프.c" />
